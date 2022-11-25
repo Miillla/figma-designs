@@ -1,6 +1,7 @@
 # Projects
-
-## [Soundwave](https://github.com/Miillla/soundwave)
+## Soundwave
+- [Figma](https://www.figma.com/file/HcqObugFJWW3B0EGtvsALV/Soundwave?node-id=0%3A1&t=zg6UVn5T2j9HdyZX-1)
+- [Github](https://github.com/Miillla/soundwave)
 
 ![Soundwave](/images/Soundwave-home.png)
 
